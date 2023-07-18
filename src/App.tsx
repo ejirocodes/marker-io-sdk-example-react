@@ -41,13 +41,13 @@ function App() {
         </div>
 
         <div className="col">
-          <input
+          {/* <input
             type="text"
             style={{ width: '100%', marginBottom: '1rem', padding: '0.5rem' }}
             placeholder="Project ID"
             value={projectId}
             onChange={(e) => setProjectId(e.target.value)}
-          />
+          /> */}
           <button onClick={() => void loadMarkerSDK()}>Load SDK</button>
         </div>
 
