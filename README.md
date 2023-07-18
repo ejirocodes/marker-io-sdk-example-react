@@ -29,3 +29,5 @@ Get it with these simple steps:
 3. Copy your project ID from the snippet code itself.
 
 ![How-to](./src/assets/how-to-project-id.png 'How to get your project ID')
+
+![Demo](./src/assets/demo.gif 'Demo')
